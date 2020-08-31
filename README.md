@@ -1,38 +1,39 @@
 # Image-Classification
 
 ## For Data Modelling  
-                    import numpy as np
+       import numpy as np
                     
 ## For Data Visualization
-                    import matplotlib.pyplot as plt
+       import matplotlib.pyplot as plt
                  
 ## For Neural Network 
-                    import tensorflow as tf 
+       import tensorflow as tf 
 
 ## For Importing Dataset
-                    from tensorflow.keras.datasets import mnist
+       from tensorflow.keras.datasets import mnist
                     
 ## For One Hot Encoding
-                    from tensorflow.python.keras.utils import to_categorical
+       from tensorflow.python.keras.utils import to_categorical
                     
 ## For Creating the Model
-                    from tensorflow.keras.models import Sequential
-                    from tensorflow.keras.layers import Dense
+       from tensorflow.keras.models import Sequential
+       from tensorflow.keras.layers import Dense
 
 ## Name of the dataset : 
-                    MNIST
+       MNIST
                     
 ## Aim
-                    The aim of this project is to create, train and evaluate a neural network in TensorFlow, understand the basics of neural networks and solve classification problems with neural networks.
+       The aim of this project is to create, train and evaluate a neural network in TensorFlow, 
+       understand the basics of neural networks and solve classification problems with neural networks.
 
 ## Tasks:
-                    Loading the data
-                    Perform One Hot Encoding
-                    Preprocessing
-                    Create model
-                    Train the model
-                    Evaluate the model
-                    Predictions
+       Loading the data
+       Perform One Hot Encoding
+       Preprocessing
+       Create model
+       Train the model
+       Evaluate the model
+       Predictions
 
 ## For Data Visualization, I used:
-                    line plot
+       line plot
