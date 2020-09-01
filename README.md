@@ -1,6 +1,6 @@
 # Image-Classification
 
-Aim: The aim of this project is to create, train and evaluate a neural network in TensorFlow, understand the basics of neural networks and solve classification problems with neural networks.
+*Aim*: The aim of this project is to create, train and evaluate a neural network in TensorFlow, understand the basics of neural networks and solve classification problems with neural networks.
 
 ## For Data Modelling  
        import numpy as np
