@@ -1,5 +1,7 @@
 # Image-Classification
 
+Aim: The aim of this project is to create, train and evaluate a neural network in TensorFlow, understand the basics of neural networks and solve classification problems with neural networks.
+
 ## For Data Modelling  
        import numpy as np
                     
@@ -22,10 +24,6 @@
 ## Name of the dataset : 
        MNIST
                     
-## Aim
-       The aim of this project is to create, train and evaluate a neural network in TensorFlow, 
-       understand the basics of neural networks and solve classification problems with neural networks.
-
 ## Tasks:
        Loading the data
        Perform One Hot Encoding
