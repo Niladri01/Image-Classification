@@ -4,7 +4,7 @@
 
 ## Theoretical Overview
 
-*TensorFlow:* 
+*TensorFlow:* TensorFlow is a free open source framework which enables users to develop end-to-end machine learning and deep learning and deep learning projects, starting from pre-processing to model training and deployment. It is initially developed by the *Google Brain* team for internal use within *Google*, but now it's useage has been widespread.
 
 *One Hot Encoding:*
 
