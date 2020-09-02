@@ -6,7 +6,9 @@
 
 *TensorFlow:* TensorFlow is a free open source framework which enables users to develop end-to-end machine learning and deep learning and deep learning projects, starting from pre-processing to model training and deployment. It is initially developed by the *Google Brain* team for internal use within *Google*, but now it's useage has been widespread.
 
-*One Hot Encoding:*
+*Keras:* Keras is an open-source neural-network Python library, capable of running on top of TensorFlow. It is designed to enable fast experimentation with deep neural networks.
+
+*One Hot Encoding:* It refers to splitting the column which contains numerical categorical data to many columns depending on the number of categories present in that column. Each column contains “0” or “1” corresponding to which column it has been placed.
 
 ## For Data Modelling  
        import numpy as np
